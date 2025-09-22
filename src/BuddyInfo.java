@@ -21,7 +21,7 @@ public class BuddyInfo {
     public BuddyInfo() {
         this.name = "Celina";
         this.address = "1 Perry St";
-        this.phoneNumber = "647-982-4924";
+        this.phoneNumber = "647-111-1111";
     }
 
     public static void main(String[] args) {
